@@ -4,7 +4,7 @@ Part 1 gets the ball rolling on an interesting topic regarding wildfires and air
 
 ### License and TOU of source data
 
-[Source](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81)) for fire feature data used in all notebooks.
+[Source](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81) for fire feature data used in all notebooks.
 
 [Source](https://aqs.epa.gov/aqsweb/documents/data_api.html) for daily air quality data used by `aqi.ipynb`.
 
