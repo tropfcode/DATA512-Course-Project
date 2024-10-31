@@ -29,9 +29,9 @@ In order to leverage the [EPA API](https://aqs.epa.gov/aqsweb/documents/data_api
 
 ### Data Products
 
-The `datasets` directory contains a sample bit of data to use as a replacement to the full dataset. The full dataset is too large to include in this repo, please refer to links of full data above.
-
+All data is too large to fit in this repo.
 Associated data products can be produced from `data_clean.ipynb`.
+Follow instructions above and in `data_clean.ipynb` for data procurement.
 
 ### Special Data Considerations and Assumptions
 The raw data contains measurements from as early as the late 1800s -- however, for the sake of the analysis done in this repo, the data is cleaned to focus on data in the timeframe of 1961-2020.
