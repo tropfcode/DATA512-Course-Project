@@ -56,6 +56,14 @@ In order to leverage the [EPA API](https://aqs.epa.gov/aqsweb/documents/data_api
 
 **Description**: Annual aggregation of various hospitalization metrics for both asthma and heart attack events in Alachua County, FL. Data is in `.csv` format.
 
+### Cartography Boundaries
+**Title**: Cartographic Boundary File
+
+**Citation**: U.S. Census Bureau, “Cartography Boundary File,” April 15, 2024, https://www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html, accessed on November 15, 2024.
+
+**Website**: https://www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html
+
+**Description**: Cartography Boundary Files used to plot wildfire ring data onto a map of the United States, specifically of the Southeast United States. See the boundary files under `notebooks/southeast`.
 
 ## Notebook Descriptions
 *`aqi.ipynb`: This notebook uses the EPA API to get daily measurements of air quality devices for Gainesville, FL. The AQI for each daily measurement is collect and visualized annually for analysis purposes. This notebook also attempts to develop a custom `smoke metric` which is a proxy for how impactful the smoke from fires near Gainesville have affected the city.
