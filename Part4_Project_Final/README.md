@@ -14,7 +14,7 @@ The following instructions after cloning this repo to create a virtual environme
 
 > cd ./Part4_Project_Final
 
-> virtualenv -p python3 data512
+> python3 -m venv data512
 
 > source data512/bin/activate
 
